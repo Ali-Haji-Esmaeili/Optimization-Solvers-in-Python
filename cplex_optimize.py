@@ -4,9 +4,10 @@
 
 # Import package
 import docplex as op
+from docplex.mp.model import Model
 
 # Define environment
-prob = op.mp.model.Model("MyOptProblem")
+prob = Model("MyOptProblem")
 
 # Define decision variables
 x = prob.integer_var(lb=0,ub=None)
