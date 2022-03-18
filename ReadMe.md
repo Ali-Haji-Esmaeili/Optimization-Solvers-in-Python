@@ -1,1 +1,1 @@
-A pack of codes illustrating how an optimization solver, namely, cplex, gurobi, and localsolver, is used in Python. Please refer to https://www.supplychaindataanalytics.com/using-solvers-for-optimization-in-python/ for more information.
+A pack of codes illustrating how an optimization solver, namely, cplex, gurobi, localsolver, and xpress, is used in Python. Please refer to https://www.supplychaindataanalytics.com/using-solvers-for-optimization-in-python/ for more information.
