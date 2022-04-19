@@ -10,7 +10,7 @@ prob.add_variable("x", 0, None, INT)
 prob.add_variable("y", 0, None)
 
 # Add objective function to the environment
-prob.set_objective("2*x+5*y")
+prob.set_objective("2*x+5*y", MAXIMIZE)
 
 # Add constraints to the environment
 prob.add_constraint("5*x+3*y<=10")
