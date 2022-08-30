@@ -4,6 +4,17 @@
 # Import package
 import xpress as op
 
+#============================================================================#
+#Ensure to credit the original developer:
+#Platform: https://github.com/ktafakkori
+#Repository: Optimization-Solvers-in-Python
+#Developer: © Keivan Tafakkori 
+#Year: 2022
+#Month: August
+#Day: 30
+#Source: https://github.com/ktafakkori/Optimization-Solvers-in-Python
+#============================================================================#
+
 # Define decision variables
 x = op.var(vartype=op.integer)
 y = op.var()
