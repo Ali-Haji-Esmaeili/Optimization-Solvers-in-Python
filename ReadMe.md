@@ -1,8 +1,12 @@
 ![](images/repo.png)
+  
+## Introduction
 
-## ©️ Copyright Notice
+A pack of codes illustrating how an optimization solver, namely, cplex, gurobi, localsolver, and xpress, is used in Python. Please refer to https://www.supplychaindataanalytics.com/using-solvers-for-optimization-in-python/ for more information.
 
-- Feel free to use the codes, but if they are going to be shared unchanged on a social platform or GitHub or used in an academic/business project, ensure to cite or give credit to this repository as follows:
+## Credit
+
+- To credit the repository, provide a link or use the following citation:
   
 ```
 @misc{Optimization-Solvers-in-Python,
@@ -14,7 +18,3 @@
   year={2022}
 }
 ```
-  
-## Introduction
-
-A pack of codes illustrating how an optimization solver, namely, cplex, gurobi, localsolver, and xpress, is used in Python. Please refer to https://www.supplychaindataanalytics.com/using-solvers-for-optimization-in-python/ for more information.
